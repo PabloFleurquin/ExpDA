@@ -1,9 +1,10 @@
-name: expda
+name: expdabk
 channels:
   - anaconda
   - vnmabus
-  - bioconda
+  - bioconda/label/cf201901
 dependencies:
+  - jupyter
   - numpy
   - scipy
   - pandas
