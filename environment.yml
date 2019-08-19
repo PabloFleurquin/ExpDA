@@ -1,0 +1,14 @@
+name: expda
+channels:
+  - anaconda
+  - vnmabus
+  - bioconda
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - dcor
+  - minepy
